@@ -16,13 +16,7 @@ namespace LR_1_TSPP
 {
     public partial class Form1 : Form
     {
-        StringBuilder Jcustomers = new StringBuilder();
-        StringBuilder Jitems = new StringBuilder();
-        StringBuilder Jorders = new StringBuilder();
-        StringBuilder Jparts = new StringBuilder();
-        StringBuilder Jdata = new StringBuilder();
-
-        DataSet data;
+      
         
         public Form1()
         {
@@ -32,6 +26,21 @@ namespace LR_1_TSPP
 
         private void Form1_Load(object sender, EventArgs e)
         {
+	
+	tones of
+	fa
+	fdds
+	f eds
+	fs f
+	sdf
+	sd
+	f
+	sdf
+	sd
+	f dsf
+	 s
+	 f ggfh
+	 
             // TODO: данная строка кода позволяет загрузить данные в таблицу "ourDatabaseDataSet.CustomerSet". При необходимости она может быть перемещена или удалена.
             this.customerSetTableAdapter.Fill(this.ourDatabaseDataSet.CustomerSet);
             try
