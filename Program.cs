@@ -16,6 +16,9 @@ namespace LR_1_TSPP
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            SmthELse;
+            //hello
+            I need This Lab WOrk;
         }
     }
 }
